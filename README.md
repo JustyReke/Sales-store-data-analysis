@@ -48,7 +48,8 @@ The data model was built in Power BI to ensure an efficient and accurate analysi
 4.	Date Table: A date table was created to enable time-based analysis and comparisons (e.g., monthly sales, quarterly revenue, year-over-year growth).
 The model was optimized for performance by reducing unnecessary columns and tables, ensuring quick load times for large datasets.
 
-[ERD](![image](https://github.com/user-attachments/assets/cd364bab-81cf-47bd-b6b6-6b5a5373cfd9))
+[ERD](![Screenshot 2025-02-09 163031](https://github.com/user-attachments/assets/43072690-160c-4b17-a716-7af321af3eaa))
+
 
 # Data Analysis and Visualization
 With the transformed data and structured model, a series of visualizations were created to deliver actionable insights:
