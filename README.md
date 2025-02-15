@@ -28,10 +28,12 @@ The following steps were performed to clean and transform the raw data into a us
 6.	Categorization: To facilitate filtering and the creation of insights, products were arranged into categories (e.g., electronics, clothing, etc.), and customers were segmented by demographics (age group, region).
 After these transformations, the data was fully cleaned and structured for analysis.
 
-[Dataset before cleaning](![image](https://github.com/user-attachments/assets/cca862a4-06c6-41cd-b1e6-a094b9dd4420))
+[Dataset before cleaning](![Screenshot 2024-09-05 165152](https://github.com/user-attachments/assets/ff5c5b4d-99b2-4905-99f2-38f926241542))
 
 
-[Dataset after cleaning](![image](https://github.com/user-attachments/assets/790cf98b-7ab7-49a1-8634-20b8e33ee3fd))
+
+[Dataset after cleaning](![Screenshot 2024-09-05 164609](https://github.com/user-attachments/assets/07eed5f7-6e64-41c1-ac52-1da6f3ad93e9))
+
 
 # Data Modeling and relationships
 The data model was built in Power BI to ensure an efficient and accurate analysis. Key aspects of the data modeling include:
